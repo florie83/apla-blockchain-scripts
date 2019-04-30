@@ -1,0 +1,13 @@
+/nodesConfig.json
+/config.json
+/full_nodes.json
+.idea/
+.pytest_cache/
+__pycache__/
+libs/__pycache__/
+scripts/.pytest_cache/
+scripts/__pycache__/
+scripts/data/
+/fixtures/exportApp1.json
+logs/
+/**/.DS_Store
